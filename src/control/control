@@ -1,0 +1,14 @@
+Package: whatsie
+Version: 2.0.15-467
+License: MIT
+Vendor: Alexandru Rosianu
+Architecture: amd64
+Maintainer: Alexandru Rosianu <me@aluxian.com>
+Installed-Size: 140273
+Depends: libappindicator1 | libappindicator | libappindicator-gtk3, gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, python, gvfs-bin, xdg-utils, libcap2
+Recommends: lsb-release, libcanberra-gtk3-module, hunspell, git
+Suggests: libgnome-keyring0, gir1.2-gnomekeyring-1.0
+Section: web
+Priority: extra
+Homepage: https://whatsie.chat/
+Description: A simple & beautiful desktop client for WhatsApp Web.
